@@ -1,0 +1,24 @@
+body{
+				border: 8px;
+				margin-left: 15px;
+				margin-rigth: 15px;
+				border-color: blue;
+				background: violet;
+				font-size:50px;
+			
+				
+}
+
+p{
+				margin-left: 30px;
+				margin-rigth: 30px;
+				font-size: 20px;
+				text-align: justify;
+}
+
+igm{
+			border-style: dashed;
+			border-width: 15px;
+			border-color: black violet red blue;
+		
+}
